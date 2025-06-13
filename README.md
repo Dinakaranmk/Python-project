@@ -1,4 +1,4 @@
-Check if two PDF documents are identical with Python
+Check if two PDF documents are identical with Python.
 Python is an interpreted and general purpose programming language. It is a Object-Oriented and Procedural paradigms programming language. There are various types of modules imported in python such as difflib, hashlib.
 
 Modules used:
